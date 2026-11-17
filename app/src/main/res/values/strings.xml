@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ritmo</string>
+    <string name="widget_income_description">Ganhos de hoje e gráfico dos últimos sete dias</string>
+</resources>
